@@ -5,7 +5,7 @@ import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyCadRKKiYr88tlNdFwNUfm6LtcO-v7zWHE",
+  apiKey: "<dummy-firebase-api-key>",
   authDomain: "contato-app-22a6a.firebaseapp.com",
   databaseURL: "https://contato-app-22a6a.firebaseio.com",
   storageBucket: "contato-app-22a6a.appspot.com",
